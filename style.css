@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#header {
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: rgb(47, 47, 47);
+}
+
+canvas {
+    border: 3px solid white;
+    border-radius: 10px;
+
+}
